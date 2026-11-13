@@ -1,0 +1,4 @@
+Modelos preentrenados de OpenCV Zoo (https://github.com/opencv/opencv_zoo)
+- face_detection_yunet_2023mar.onnx  : YuNet, licencia MIT (Wu, Peng y Yu, 2023)
+- face_recognition_sface_2021dec.onnx: SFace, licencia Apache 2.0 (Zhong et al., 2021)
+Si se borran, app.py los vuelve a descargar.

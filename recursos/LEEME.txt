@@ -1,0 +1,12 @@
+Logo de la Universidad de Cundinamarca (opcional)
+
+Si guardas aquí el logo oficial con el nombre  logo_udec.png  AsistIA lo muestra en la
+cabecera, junto al nombre de la universidad. Si no está, la cabecera muestra solo el texto.
+
+Recomendaciones:
+- Usa la versión del logo para fondos oscuros (blanca o en negativo), porque la cabecera es
+  verde institucional.
+- PNG con fondo transparente, de al menos 120 píxeles de alto.
+- Descárgalo de la página oficial de la universidad y respeta su manual de imagen.
+
+Los colores de la interfaz están en ui.py, en el diccionario C (al inicio del archivo).

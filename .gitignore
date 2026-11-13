@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datos personales (biométricos y listas de asistencia): NO se suben
+datos/
+asistencia/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Modelos ONNX (se descargan solos al abrir el programa)
+modelos/*.onnx
